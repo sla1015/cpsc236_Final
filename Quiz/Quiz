@@ -1,0 +1,1 @@
+This program is a console-based program that creates a randomized quiz from a csv file of questions. To run the program, 'testbank.csv' and 'quiz_final_complete.py' must both be downloaded and in the same folder.
